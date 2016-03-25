@@ -2,6 +2,7 @@ name: Soyuz Digital
 favicon: null
 layout_spectrum: 0.5067622021306306
 typography_spectrum: 0.11235195444896817
+title: Title
 cta:
   domain: null
   bucket: null
