@@ -1,20 +1,4 @@
-name: Soyuz Digital
-favicon: null
-layout_spectrum: 0.5067622021306306
 typography_spectrum: 0.11235195444896817
-title: Title
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,20 @@ color:
   lightness: 0.9597804425284266
   saturation: 0.05415317486040294
   rhythmicContrast: 0.5346518417354673
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5067622021306306
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Soyuz Digital
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Title
 purpose: []
